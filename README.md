@@ -1,28 +1,121 @@
-# Student Portfolio
+🌐 Personal Portfolio – Kunjal Baseshankar
 
-This is a premium, responsive portfolio website designed for a B.Tech Computer Science student.
+🚀 Software Engineer | AI Developer | Cloud-Native Enthusiast
+🎓 B.Tech Computer Science & Engineering | GPA: 9.45/10
+📍 India
 
-## Feature Highlights
-- **Glassmorphism Design**: Modern, sleek UI with blurred backgrounds.
-- **Animations**: Typing text effect, 3D tilt on cards, and scroll reveals.
-- **Sections**: Hero, About, Skills, Coding Profiles, Achievements, Projects, Contact.
-- **Mobile Responsive**: Works perfectly on phones and tablets.
+🔗 Live Portfolio
 
-## How to Run Locally
-1. Simply double-click on `index.html` to open it in your web browser.
-2. Or, use a Live Server extension in VS Code for hot-reloading changes.
+👉 View Portfolio
 
-## How to Host Live (Make it accessible to everyone)
+👋 About Me
 
-### Option 1: GitHub Pages (Recommended)
-1. Create a new repository on GitHub (e.g., `my-portfolio`).
-2. Upload `index.html`, `styles.css`, and `script.js` to this repository.
-3. Go to **Settings** > **Pages**.
-4. Under "Branch", select `main` (or `master`) and folder `/ (root)`.
-5. Click **Save**. GitHub will give you a live URL (e.g., `yourusername.github.io/my-portfolio`).
+I am a highly motivated Computer Science Engineering student with strong foundations in
+Data Structures & Algorithms, Full Stack Development, Cloud Computing, DevOps, and Artificial Intelligence.
 
-### Option 2: Netlify Drop (Fastest)
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop).
-2. Drag and drop the `portfolio-btech` folder onto the page.
-3. It will instantly publish your site and give you a URL.
-"# Portfolio" 
+I enjoy building scalable, real-world software systems and have experience leading projects used by 5,000+ users.
+I actively participate in hackathons, competitive programming, and open-source development, and I am currently preparing for high-impact software engineering roles.
+
+🛠️ Tech Stack
+👨‍💻 Languages
+
+C, C++
+
+Java
+
+Python
+
+JavaScript
+
+SQL
+
+🌐 Web & Full Stack
+
+HTML5, CSS3
+
+React.js
+
+Node.js, Express.js
+
+REST APIs
+
+☁️ Cloud & DevOps
+
+Docker
+
+Kubernetes
+
+AWS, Azure, OCI
+
+CI/CD Pipelines
+
+Linux
+
+Git & GitHub
+
+🤖 AI / ML
+
+NLP & RAG-based systems
+
+Computer Vision
+
+LLM concepts
+
+TensorFlow / PyTorch (conceptual & applied)
+
+🚀 Featured Projects
+🍱 KL-Eats – Campus Food Pre-Ordering Platform
+
+Tech: React, Node.js, SQL, Docker
+
+Founder & Lead Developer
+
+Scaled to 5,000+ users within the university campus
+
+Designed backend APIs, order workflows, and deployment pipelines
+
+🏥 AI Healthcare Chatbot (RAG-Based)
+
+Tech: Python, NLP, LLMs
+
+Built a retrieval-augmented chatbot for medical information
+
+Improved response accuracy by 40% using optimized embeddings
+
+Focused on context-aware and reliable answers
+
+🛒 Smart Shopping Cart Assistant
+
+Tech: Computer Vision, AI, Node.js
+
+AI-powered retail assistant for calorie analysis and product recommendations
+
+Uses real-time product recognition and intelligent suggestions
+
+🏆 Achievements & Certifications
+
+🥇 Smart India Hackathon – Finalist
+
+🏆 HackVega National-Level Hackathon Participant
+
+☁️ AWS Cloud Practitioner
+
+☁️ OCI Certified Architect Associate (2025)
+
+🌐 Aviatrix Multi-Cloud Network Associate (MCNA)
+
+💻 Coding & Development
+
+Solved 500+ DSA problems
+
+Active GitHub contributor
+
+Experience with system design, scalable architectures, and cloud-native applications
+
+📬 Contact & Profiles
+
+📧 Email: kunjalb882@gmail.com
+
+💼 LinkedIn: linkedin.com/in/kunjal-baseshankar-16a174292
+
+💻 GitHub: github.com/Kunjalb29
